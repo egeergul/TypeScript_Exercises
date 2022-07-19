@@ -1,0 +1,15 @@
+{
+  "name": "ts_exercise_02",
+  "version": "1.0.0",
+  "description": "TypeScript Exercise 02",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "egeergull",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
